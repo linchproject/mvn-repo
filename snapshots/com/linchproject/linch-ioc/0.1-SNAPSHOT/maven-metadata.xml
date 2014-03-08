@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.linchproject</groupId>
+  <artifactId>linch-ioc</artifactId>
+  <version>0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140308.200640</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140308200640</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.1-20140308.200640-1</value>
+        <updated>20140308200640</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-20140308.200640-1</value>
+        <updated>20140308200640</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
