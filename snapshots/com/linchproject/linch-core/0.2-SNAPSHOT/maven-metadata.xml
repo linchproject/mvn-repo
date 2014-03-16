@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.linchproject</groupId>
-  <artifactId>linch</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <artifactId>linch-core</artifactId>
+  <version>0.2-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20140316.154406</timestamp>
-      <buildNumber>7</buildNumber>
+      <timestamp>20140316.154327</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20140316154406</lastUpdated>
+    <lastUpdated>20140316154327</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.1-20140316.154406-7</value>
-        <updated>20140316154406</updated>
+        <value>0.2-20140316.154327-1</value>
+        <updated>20140316154327</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.1-20140316.154406-7</value>
-        <updated>20140316154406</updated>
+        <value>0.2-20140316.154327-1</value>
+        <updated>20140316154327</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
