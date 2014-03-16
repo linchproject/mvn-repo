@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.linchproject</groupId>
-  <artifactId>linch-framework</artifactId>
+  <artifactId>linch-forms</artifactId>
   <versioning>
     <versions>
       <version>0.1-SNAPSHOT</version>
-      <version>0.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20140316005127</lastUpdated>
+    <lastUpdated>20140316005116</lastUpdated>
   </versioning>
 </metadata>
